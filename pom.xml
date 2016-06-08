@@ -84,7 +84,7 @@
                 </descriptorRefs>
                 <archive>
                     <manifest>
-                        <mainClass>view.App</mainClass>
+                        <mainClass>tca.App</mainClass>
                     </manifest>
                 </archive>
             </configuration>
